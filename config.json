@@ -1,0 +1,6 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+  "data-db-connection": "mongodb+srv://gamonteroa:Montero2022@cluster0.ftrqujn.mongodb.net/res_votaciones?retryWrites=true&w=majority",
+  "name-db": "res_votaciones"
+}
